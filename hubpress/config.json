@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "sidemachine",
-    "repositoryName": "sidemachine.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"sidemachine","repositoryName":"sidemachine.github.io","branch":"master"},"site":{"title":"Artificial Data","description":"Making sense of tomorrow for today.","url":"https://sidemachine.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//sidemachine.github.io/themes/Casper"}}
